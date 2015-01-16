@@ -3,4 +3,4 @@ An Xcode project that demos how to modally present windows as sheets in OS X Yos
 
 [Blog Article](http://www.nickkuh.com/mac-os-x/how-to-modally-present-windows-as-sheets-in-os-x-yosemite-mavericks/2015/01/)
 
-![Alt text](https://github.com/nickkuh/OS-X-Custom-Document-Modal-Window/blob/master/screenshot.png "Optional title")
+![](https://github.com/nickkuh/OS-X-Custom-Document-Modal-Window/blob/master/screenshot.png "")
