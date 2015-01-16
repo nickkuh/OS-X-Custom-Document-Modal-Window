@@ -22,5 +22,4 @@
     [self.window.sheetParent endSheet:self.window returnCode:NSModalResponseOK];
 }
 
-
 @end
